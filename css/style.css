@@ -1,0 +1,25 @@
+body {background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+    h1 {
+    color: tomato;
+    font-family: "betu";
+    text-align: center;
+    font-size: 70px;
+    text-decoration: dotted;
+    text-transform: initial;
+}
+    
+    p {color: peachpuff;
+   font-size: 40px;
+    font-family: "betu";
+background-color: black;
+text-decoration: wavy;
+line-height: normal;
+font-weight: 900;
+}
+img {width: 650px; margin: 30px;}
+
+@font-face {
+    font-family: "betu";
+    src: url("Satisfy-Regular.ttf");
+}
